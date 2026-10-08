@@ -41,7 +41,8 @@ Cria uma lista de tarefas com:
 - Aprender títulos
 - Aprender listas
 - Aprender tabelas
-- Aprender código Marca como concluídas as duas primeiras.
+- Aprender código
+- Marca como concluídas as duas primeiras.
 ---
 ## 10. Projeto final 
 Cria uma pequena apresentação sobre ti. Deverá incluir: 
@@ -53,3 +54,16 @@ Cria uma pequena apresentação sobre ti. Deverá incluir:
 - Uma frase que te motive
 ### Objetivo 
 No final, o teu ficheiro deverá demonstrar que sabes utilizar os principais elementos de Markdown. 🚀
+
+# Desafio extra
+Quando terminares, tenta acrescentar por tua iniciativa:
+
+- [ ] Um segundo nível de subtítulo (###)
+- [ ] Uma tabela mais completa
+- [ ] Um bloco de código de outra linguagem
+- [ ] Uma lista dentro de outra lista
+- [ ] Uma imagem com texto alternativo
+- [ ] Uma citação dentro de uma secção
+- [ ] Um link que abra um recurso externo
+
+
