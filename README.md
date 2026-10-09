@@ -1,6 +1,5 @@
 # Guia de Markdown 
 Markdown é uma linguagem de marcação simples utilizada para formatar texto. 
-´<p>Hellow`
 
 ## 1. Porquê aprender Markdown? Markdown é útil para: 
 - Criar documentação
